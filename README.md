@@ -16,4 +16,4 @@ To contribute, you can create a folder and make sure you follow the numbering of
 ## 💡Table of Content
 | Webiste | Description | URL | Inspired By|
 | --- | --- | --- | --- |
-| Photography Studio | List all *new or modified* files | https://studiotemplate.vercel.app/ | https://www.rejouice.com/ |
+| Photography Studio | Webiste made with Swiper JS, Locomotive Scroll and GSAP | https://studiotemplate.vercel.app/ | https://www.rejouice.com/ |
